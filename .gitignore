@@ -1,3 +1,11 @@
+## Ignore temporary files and build results
+
+#Desktop ini files
+*.ini
+
+#Vs code files
+.vs
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
